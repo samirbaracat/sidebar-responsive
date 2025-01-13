@@ -1,5 +1,5 @@
-# sidebar-responsive
+# Sidebar Responsiva
 
-## React + TypeScript + Vite
+## React, TypeScript e Vite
 
-### React-icons
+### Dependência: React-icons
